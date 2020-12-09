@@ -5,4 +5,5 @@ h.forEach(function(a) {
         hh.innerText = "h";
     })
 })
+    document.title = "h";
 }, 2500);
