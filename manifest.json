@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Skype For Buisness",
+    "name": "Skype For h",
     "version": "1.0",
-    "description": "Zamienia 'Teams' na 'Skype For Buisness'",
+    "description": "h? h!",
     "content_scripts": [
         {
             "matches": [
